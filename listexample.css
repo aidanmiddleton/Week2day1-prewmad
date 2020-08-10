@@ -1,0 +1,10 @@
+li {
+  color: rgb(53, 143, 77);
+  background-color:rgba(196, 25, 16, 0.5)
+  
+}
+body {
+  background-color: red;
+  background-image: url("https://www.transparenttextures.com/patterns/black-thread.png");
+  background-attachment: scroll;
+}
